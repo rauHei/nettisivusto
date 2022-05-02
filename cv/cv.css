@@ -1,0 +1,13 @@
+img{
+    width: 80px;
+    height: auto;
+   
+}
+
+ul, li{
+    list-style-type: circle;
+    padding: 1px;
+}
+#nimi{
+ color: aliceblue;
+}
